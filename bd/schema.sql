@@ -27,5 +27,4 @@ CREATE TABLE employee (
     role_id INT NOT NULL,
     manager_id INT,
     /*figure out how to do the manager thing*/
-
 )
